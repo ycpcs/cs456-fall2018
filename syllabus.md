@@ -10,7 +10,7 @@ CS 456 - Social and Professional Issues in Computing
 
 Class times:
 
-- Section 101, TR 12:30 - 1:45AM in KEC 118
+- Section 101, TR 12:30 - 1:45PM in KEC 118
 
 Instructor:
 
