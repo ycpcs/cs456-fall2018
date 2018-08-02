@@ -17,6 +17,8 @@ All information about the course will be posted here.
 
 ## News
 * **Aug 28** - Welcome back!
+* **Oct 16 - NO CLASS, FALL BREAK**
+* **Nov 22 - NO CLASS, THANKSGIVING BREAK**
 
 
 <!--
