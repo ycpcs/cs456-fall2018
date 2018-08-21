@@ -5,7 +5,7 @@ title: "Resources"
 
 This page contains links to useful resources.
 
-To access articles go to the [Schmidt Library](http://library.ycp.edu/>).
+To access articles go to the [Schmidt Library](http://library.ycp.edu/home).
 
 -   For articles in **IEEE Computer**, select *Subject Guides*, *Engineering*, and *IEEE Xplore*.
 
