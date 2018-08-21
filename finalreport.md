@@ -7,7 +7,7 @@ title: "Final Report"
 
 The topic of this paper is any area of interest concerning an ethical issue related to software engineering or technology. The purpose is to research a particular example and discuss the impact of the issue on both the industry and society as a whole.
 
-The paper should be 3-5 pages single spaced (12pt. font) in length and have at least 4 primary sources. [IEEE format](http://www.ieee.org/documents/ieeecitationref.pdf) should be used for citations.
+The paper should be 3-5 pages single spaced (12pt. font) in length and have at least 4 primary sources. [IEEE format](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) should be used for citations.
 
 The report should contain the following sections:
 
