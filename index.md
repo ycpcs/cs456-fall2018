@@ -18,10 +18,11 @@ All information about the course will be posted here.
 ## News
 * **Aug 28** - Welcome back!
 * **Sept 13** - Exam 1 Part 1 Discussion
-* **Sept 18 - Exam 1 Part 1 Due** email a .pdf to dbabcock@ycp.edu by 12:30pm
+* **Sept 18 - Exam 1 Part 1 Due** upload a .pdf to Marmoset by 12:30pm
+* **Oct 9** - Exam 1 Part 2 Discussion
+* **Oct 12 - Exam 1 Part 2 Due** upload a .pdf to Marmoset by 11:59pm
 * **Oct 16 - NO CLASS, FALL BREAK**
 * **Nov 22 - NO CLASS, THANKSGIVING BREAK**
-
 
 <!--
 * **Jan 18** - Welcome back!
