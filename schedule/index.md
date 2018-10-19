@@ -27,8 +27,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 2   | Individual          | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Portable Device Fears Show Power of Social Development*, Chris Edwards (ACM - 10/17) |  
 > Oct 4   | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
 > Oct 9   | **EXAM I PART II**  | |
-> Oct 18  |  *Ownership of software* <br /> Matt Hasz | [WE CAN'T LET JOHN DEERE DESTROY THE VERY IDEA OF OWNERSHIP](https://www.wired.com/2015/04/dmca-ownership-john-deere/) <br /> *Software Ownership Battle Adds $10M to Cost of 'Big Dig'*, Marc L. Songini (Computerworld - 2/28/2005) <br /> *Reasons to Jailbreak Your iPhone (and Not To)*, Brennon Slattery (PCWorld - 10/10) |
-
+> Oct 18  | *Ownership of software* <br /> Matt Hasz | [WE CAN'T LET JOHN DEERE DESTROY THE VERY IDEA OF OWNERSHIP](https://www.wired.com/2015/04/dmca-ownership-john-deere/) <br /> *Software Ownership Battle Adds $10M to Cost of 'Big Dig'*, Marc L. Songini (Computerworld - 2/28/2005) <br /> *Reasons to Jailbreak Your iPhone (and Not To)*, Brennon Slattery (PCWorld - 10/10) |
+> Oct 23  | *Microsoft charging for Win 7 support* <br /> Nate Russell | |
 
 
 
