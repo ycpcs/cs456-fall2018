@@ -28,8 +28,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 4   | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
 > Oct 9   | **EXAM I PART II**  | |
 > Oct 18  | *Ownership of software* <br /> Matt Hasz | [WE CAN'T LET JOHN DEERE DESTROY THE VERY IDEA OF OWNERSHIP](https://www.wired.com/2015/04/dmca-ownership-john-deere/) <br /> *Software Ownership Battle Adds $10M to Cost of 'Big Dig'*, Marc L. Songini (Computerworld - 2/28/2005) <br /> *Reasons to Jailbreak Your iPhone (and Not To)*, Brennon Slattery (PCWorld - 10/10) |
-> Oct 23  | *Microsoft charging for Win 7 support* <br /> Nate Russell | |
-
+> Oct 23  | *Microsoft charging for Win 7 support* <br /> Nate Russell | [Microsoft Relents, Confirms Extended Support Option for Windows 7](https://www.extremetech.com/computing/276582-microsoft-relents-confirms-extended-support-option-for-windows-7) <br /> [Microsoft Warns Windows 7 Is Dangerous To Use \[Updated\]](https://www.forbes.com/sites/gordonkelly/2017/01/17/microsoft-windows-7-security-hardware-support-problems/#329d05decdba) <br /> [You’ll never have to pay for a Mac OS upgrade again, Apple CFO says](https://www.geekwire.com/2013/pay-mac-os-upgrade-apple-cfo/) <br /> [Microsoft Silently Kills Windows 7 Security Updates on Older PCs](https://www.extremetech.com/computing/271982-microsoft-silently-kills-windows-7-security-updates-on-older-pcs) <br /> [Microsoft to offer paid Windows 7 Extended Security Updates](https://www.zdnet.com/article/microsoft-to-offer-paid-windows-7-extended-security-updates/) |
 
 
 
