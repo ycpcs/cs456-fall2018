@@ -32,8 +32,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 25  | *Increase in STEM education* <br /> Ezra Moore | *Towards a STEM + Arts Curriculum*, Toni Wynn and Juliette Harris (Education Digest - 1/13) <br /> [From STEM to STEAM: Brent Bushnell and Eric Gradman at TEDxManhattanBeach](https://youtu.be/0rAbylCphUk) |
 > Oct 30 <br /> KEC118  | *Anonymity* <br /> Garrett Ruths | *Anonymity on the Internet: Why the Price May Be Too High*, David Davenport (ACM - 4/02) <br /> [UH Researcher Finds Anonymity Makes a Difference with Online Comments](https://www.uh.edu/news-events/stories/2014/January/12114Santana.php) <br /> [Facing the Challenge of Online Harassment](https://www.eff.org/deeplinks/2015/01/facing-challenge-online-harassment)|
 > Nov 1   | *Deep fakes* Isaac Wheeler | [deepfakes_faceswap](https://github.com/deepfakes/faceswap) <br /> [Letter to Director Coats](https://schiff.house.gov/imo/media/doc/2018-09%20ODNI%20Deep%20Fakes%20letter.pdf) <br /> [There Is No Tech Solution to Deepfakes](https://motherboard.vice.com/en_us/article/594qx5/there-is-no-tech-solution-to-deepfakes)|
-> Nov 6   | Rathana Pim | |
-> Nov 8 <br /> KEC118  | Zack Henry | |
+> Nov 6   | *Face ID and Privacy* <br /> Rathana Pim | [About Face ID advanced technology](https://support.apple.com/en-us/HT208108) <br /> [Analysis: Apple is sharing your face with apps. That's a new privacy worry](https://www.chicagotribune.com/bluesky/technology/ct-apple-facial-recognition-privacy-20171202-story.html) <br /> [Apps Might Have Too Much Access to Face ID Data on iPhone X](https://www.extremetech.com/mobile/259872-apps-might-much-access-face-id-data-iphone-x)|
+> Nov 8 <br /> KEC118  | *Hacking bodycams* <br /> Zack Henry | [POLICE BODYCAMS CAN BE HACKED TO DOCTOR FOOTAGE](https://www.wired.com/story/police-body-camera-vulnerabilities/) <br /> [Hackers hijack surveillance camera footage with 'Peekaboo' zero-day vulnerability](https://www.zdnet.com/article/hackers-can-tamper-with-surveillance-camera-footage-due-to-new-zero-day-vulnerability/) |
 > Nov 13 <br /> KEC118  | Devin Retzlaff | |
 > Nov 15  | Derek McClellan | |
 > Nov 20  |  |
