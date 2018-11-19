@@ -35,12 +35,12 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Nov 6   | *Face ID and Privacy* <br /> Rathana Pim | [About Face ID advanced technology](https://support.apple.com/en-us/HT208108) <br /> [Analysis: Apple is sharing your face with apps. That's a new privacy worry](https://www.chicagotribune.com/bluesky/technology/ct-apple-facial-recognition-privacy-20171202-story.html) <br /> [Apps Might Have Too Much Access to Face ID Data on iPhone X](https://www.extremetech.com/mobile/259872-apps-might-much-access-face-id-data-iphone-x)|
 > Nov 8 <br /> KEC118  | *Hacking bodycams* <br /> Zack Henry | [POLICE BODYCAMS CAN BE HACKED TO DOCTOR FOOTAGE](https://www.wired.com/story/police-body-camera-vulnerabilities/) <br /> [Hackers hijack surveillance camera footage with 'Peekaboo' zero-day vulnerability](https://www.zdnet.com/article/hackers-can-tamper-with-surveillance-camera-footage-due-to-new-zero-day-vulnerability/) |
 > Nov 13 <br /> KEC118  | *Net Neutrality* <br /> Devin Retzlaff | [The pros and cons of net neutrality](https://www.itpro.co.uk/strategy/28115/the-pros-and-cons-of-net-neutrality) <br /> [THE WIRED GUIDE TO NET NEUTRALITY](https://www.wired.com/story/guide-net-neutrality/) <br /> [7 Reasons Net Neutrality Is Idiotic](https://www.dailywire.com/news/18613/7-reasons-net-neutrality-idiotic-aaron-bandler)|
-> Nov 15  | *Ethics of AI* <br /> Derek McClellan | [Top 9 ethical issues in artificial intelligence](https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/) <br /> [The evolution of artificial intelligence](https://www.ubs.com/microsites/artificial-intelligence/en/new-dawn.html) <br /> [THE SINGULARITY](https://www.edge.org/conversation/ray_kurzweil-the-singularity) |
-> Nov 20  |  |
-> Nov 27  |  |
-> Nov 29  |  |
-> Dec 4 <br /> KEC118  |  |
-> Dec 6   |  |
+> Nov 15  | **INCLEMENT WEATHER** | |
+> Nov 20  | *Ethics of AI* <br /> Derek McClellan | [Top 9 ethical issues in artificial intelligence](https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/) <br /> [The evolution of artificial intelligence](https://www.ubs.com/microsites/artificial-intelligence/en/new-dawn.html) <br /> [THE SINGULARITY](https://www.edge.org/conversation/ray_kurzweil-the-singularity) |
+> Nov 27  | Jason Lefever |
+> Nov 29  | Kyle Jones |
+> Dec 4 <br /> KEC118  | Matt Richie |
+> Dec 6   | **EXAM II** |
 > Dec 11  |  |
 
 

@@ -23,6 +23,9 @@ All information about the course will be posted here.
 * **Oct 12 - Exam 1 Part 2 Due** upload a .pdf to Marmoset by 11:59pm
 * **Oct 16 - NO CLASS, FALL BREAK**
 * **Nov 22 - NO CLASS, THANKSGIVING BREAK**
+* **Dec 6** - Exam 2 Discussion
+* **Dec 11 - Exam 2 Due** upload a .pdf to Marmoset by 11:59pm
+* **Dec 17 - Final Report Due by 11:59pm**
 
 <!--
 * **Jan 18** - Welcome back!
