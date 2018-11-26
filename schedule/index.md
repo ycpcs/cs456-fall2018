@@ -37,7 +37,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Nov 13 <br /> KEC118  | *Net Neutrality* <br /> Devin Retzlaff | [The pros and cons of net neutrality](https://www.itpro.co.uk/strategy/28115/the-pros-and-cons-of-net-neutrality) <br /> [THE WIRED GUIDE TO NET NEUTRALITY](https://www.wired.com/story/guide-net-neutrality/) <br /> [7 Reasons Net Neutrality Is Idiotic](https://www.dailywire.com/news/18613/7-reasons-net-neutrality-idiotic-aaron-bandler)|
 > Nov 15  | **INCLEMENT WEATHER** | |
 > Nov 20  | *Ethics of AI* <br /> Derek McClellan | [Top 9 ethical issues in artificial intelligence](https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/) <br /> [The evolution of artificial intelligence](https://www.ubs.com/microsites/artificial-intelligence/en/new-dawn.html) <br /> [THE SINGULARITY](https://www.edge.org/conversation/ray_kurzweil-the-singularity) |
-> Nov 27  | Jason Lefever |
+> Nov 27  | *Tech Unions* <br /> Jason Lefever | [Workers of Silicon Valley, It’s Time to Organize](https://www.nytimes.com/2018/04/25/technology/tech-workers-change.html) <br /> [Google Workers Reject Silicon Valley Individualism in Walkout](https://www.nytimes.com/2018/11/06/business/google-employee-walkout-labor.html) <br /> [Why Labor Unions And Silicon Valley Aren’t Friends, In 2 Charts](https://techcrunch.com/2013/07/29/why-labor-unions-and-silicon-valley-arent-friends-in-2-charts/) <br /> [Software Startup Accused of Union-Busting Will Pay Ex-Employees](https://www.bloomberg.com/news/articles/2018-11-10/software-startup-accused-of-union-busting-will-pay-ex-employees) |
 > Nov 29  | Kyle Jones |
 > Dec 4 <br /> KEC118  | Matt Richie |
 > Dec 6   | **EXAM II** |
